@@ -1,5 +1,5 @@
-#Ödev 1  
-##İlk Web Sayfamızı Oluşturmak  
+# Ödev 1  
+## İlk Web Sayfamızı Oluşturmak  
 Eveet harika konular öğrendikten sonra sıra geldi ödevimize. Bu ödevimizde ilk web sayfamızı   tasarlayacağız. Çok heyecanlı değil mi? Sizlerden istediğimiz çok basit bir şekilde öğrendiklerinizle   bir web sayfası tasarlamanız.
 
 Siteyi açtığımızda adınız ve soyadınızı başlık şeklinde göstermeniz gerekiyor.  
